@@ -1,0 +1,56 @@
+#logo {
+  width: 150px;
+
+  height: 25px;
+}
+#heading {
+  font-size: 40px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bolder;
+}
+#text {
+  color: blue;
+}
+.myDiv1 {
+  display: inline-block;
+}
+#img1 {
+  height: 200px;
+  width: 250px;
+}
+.myDiv2 {
+  display: inline-block;
+  margin-left: 15px;
+  font-weight: 100;
+}
+#para1 {
+  font-size: 18px;
+}
+#img2 {
+  height: 200px;
+  width: 250px;
+}
+.myDiv3 {
+  display: inline-block;
+  margin-left: 15px;
+}
+.myDiv4 {
+  display: inline-block;
+  margin-left: 15px;
+  font-weight: 100;
+}
+#para2 {
+  font-size: 18px;
+}
+footer {
+  text-align: right;
+  padding-top: 80px;
+}
+
+#footer-text {
+  margin: 0;
+  color: rgb(96, 96, 226);
+}
+#body {
+  background-color: #faf9f6;
+}
